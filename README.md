@@ -1,2 +1,2 @@
 # python-crypto-tool
-A command line file encryption tool built and AES-128
+A command line file encryption tool built with python and AES-128
